@@ -1,0 +1,42 @@
+.KolorKlas{
+    color:yellow; 
+}
+.KodKlas{
+    color:yellowgreen;
+}
+
+body{
+    background: #2d2241;
+}
+
+h1{
+    color:#FFCF00;
+}
+
+h2{
+    color:#8FC0A9;
+}
+
+h3{
+    color:#F49D6E;
+}
+
+h4{
+    color:tomato;
+}
+
+h5{
+    color:hotpink;
+}
+
+section{
+    color:#F9EBE0;
+}
+
+footer{
+    color:#208AAE;
+}
+
+.głównyNagłówek {
+    color:#2d2241; background: #FFCF00;
+}
