@@ -40,3 +40,12 @@ footer{
 .głównyNagłówek {
     color:#2d2241; background: #FFCF00;
 }
+.akapit{
+    width: 100px;
+    height: 50px;
+}
+
+.link{
+    width: 240px;
+    height: 20px;
+}
